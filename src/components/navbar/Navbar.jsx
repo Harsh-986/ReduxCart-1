@@ -1,5 +1,5 @@
 import React from 'react'
-import './navbar.css'
+import './Navbar.css'
 import { IoSearch } from 'react-icons/io5'
 import {MdOutlineShoppingCart} from 'react-icons/md' 
 import {Link} from 'react-router-dom' ;
